@@ -1,4 +1,4 @@
-# Diabetes-Prediction-Using-K-Nearest-Neighbours-Algorithm
+# Diabetes-Prediction-Using-Different-Algorithm
 About Dataset :-
 It is the most common dataset that is used by ML learners to understand how the K-Nearest Neighbor algorithm works by using it on real-world problems and their dataset. This dataset contains the diagnostic measurements collected by the National Institute of Diabetes and Digestive and Kidney Diseases of the patients who were diagnosed with Diabetes and the ones who weren’t. This dataset is considered as a good resource to help us understand the working of Machine Learning algorithms in real world problems.
 The dataset comprises of 9 columns (features) with labels like Glucose, Blood Pressure, Skin Thickness, etc.
