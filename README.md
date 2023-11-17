@@ -5,6 +5,7 @@ The dataset comprises of 9 columns (features) with labels like Glucose, Blood Pr
 
 All the features in the dataset are:
 Pregnancies: Number of times pregnant
+
 Glucose: Plasma glucose concentration a 2 hours in an oral glucose tolerance test
 BloodPressure: Diastolic blood pressure (mm Hg)
 SkinThickness: Triceps skin fold thickness (mm)
